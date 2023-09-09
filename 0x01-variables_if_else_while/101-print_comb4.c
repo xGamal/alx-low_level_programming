@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Generates all possible distinct combinations of three digits.
- * Return: Always returns 0 (Success)
+ * main - Entry point to generate distinct combinations of three digits.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
