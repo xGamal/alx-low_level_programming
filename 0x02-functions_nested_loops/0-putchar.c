@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - print _putchar
- * task number 0 
+ * code - show _putchar
+ * made by xgmal
  * Return: 0
  */
 
