@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * code - show _putchar
- * made by xgmal
+ * main - print _putchar
+ * made by xgamal
  * Return: 0
  */
 
